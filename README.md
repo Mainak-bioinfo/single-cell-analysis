@@ -6,4 +6,4 @@ To elucidate heterogenity in Glioma, single-cell analysis will be performes. Uns
 
 #**Datasets**
 
-Use of multiple Dataset 1.Glioblastoma (Higher Grade tumor) 2. LGG (Lower Grade tumor) 3. Pedaitric Glioma
+Use of multiple Dataset 1.Glioblastoma (Higher Grade tumor) 2. LGG (Lower Grade tumor) 3. Pediatric Glioma
